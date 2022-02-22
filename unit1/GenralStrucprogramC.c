@@ -10,6 +10,7 @@ char* name = "HectorJesus";
 char unCaracter = 'M';
 /////////////////////////////////////////////////////////
 
+
 ///La ejecucion del programa
 int main(){
     printf("Hello Data B %s\n", name);
